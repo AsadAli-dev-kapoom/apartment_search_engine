@@ -1,0 +1,2 @@
+# Browser automation
+playwright>=1.55,<2

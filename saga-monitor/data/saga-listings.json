@@ -1,0 +1,55 @@
+{
+  "source": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+  "scraped_at": "2026-09-05T09:27:58.613499+00:00",
+  "count": 4,
+  "listings": [
+    {
+      "listing_id": "6774",
+      "url": "https://www.saga.hamburg/immobiliensuche/immo-detail/6774/3-1-2-zimmer-mit-garten-in-moorburg-grune-lage",
+      "title": "3 1/2-Zimmer mit Garten in Moorburg - grüne Lage",
+      "district": "Moorburg",
+      "address": "Moorburger Elbdeich 452, 21079 Hamburg",
+      "rooms": 3.5,
+      "size_m2": 124.6,
+      "warm_rent": 1093.35,
+      "available_from": "2026-08-16 00:00:00",
+      "first_seen_at": "2026-09-05T09:27:58.300714+00:00"
+    },
+    {
+      "listing_id": "6783",
+      "url": "https://www.saga.hamburg/immobiliensuche/immo-detail/6783/schone-4-zimmerwohnung",
+      "title": "Schöne 4-Zimmerwohnung",
+      "district": "Osdorf",
+      "address": "Achtern Born 117, 22549 Hamburg",
+      "rooms": 4.0,
+      "size_m2": 90.82,
+      "warm_rent": 905.9,
+      "available_from": "2026-10-01 00:00:00",
+      "first_seen_at": "2026-09-05T09:27:58.404423+00:00"
+    },
+    {
+      "listing_id": "6787",
+      "url": "https://www.saga.hamburg/immobiliensuche/immo-detail/6787/grosse-3-zimmerwohnung-mit-garten-in-moorburg",
+      "title": "Große 3-Zimmerwohnung mit Garten in Moorburg",
+      "district": "Moorburg",
+      "address": "Moorburger Elbdeich 273e, 21079 Hamburg",
+      "rooms": 3.0,
+      "size_m2": 111.94,
+      "warm_rent": 1319.96,
+      "available_from": "2026-09-01 00:00:00",
+      "first_seen_at": "2026-09-05T09:27:58.507086+00:00"
+    },
+    {
+      "listing_id": "6788",
+      "url": "https://www.saga.hamburg/immobiliensuche/immo-detail/6788/3-zimmerwohnung-mit-garten-im-alten-land-neuenfelde",
+      "title": "3-Zimmerwohnung mit Garten im Alten Land - Neuenfelde",
+      "district": "Neuenfelde",
+      "address": "Hasselwerder Str. 73, 21129 Hamburg",
+      "rooms": 3.0,
+      "size_m2": 86.0,
+      "warm_rent": 1091.68,
+      "available_from": "2026-09-16 00:00:00",
+      "first_seen_at": "2026-09-05T09:27:58.610851+00:00"
+    }
+  ]
+}

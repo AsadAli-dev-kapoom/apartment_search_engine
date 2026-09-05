@@ -1,0 +1,1401 @@
+{
+  "captured_at": "2026-09-05T10:44:42",
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "document",
+      "is_navigation": true,
+      "headers": {}
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/immobiliensuche?create_challenge",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://www.saga.hamburg/immobiliensuche?verify_challenge",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "document",
+      "is_navigation": true,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/app.2a3c549c.css",
+      "resource_type": "stylesheet",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/leaflet.c8a5841a.css",
+      "resource_type": "stylesheet",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/app.js?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://cdn.jsdelivr.net/npm/@friendlycaptcha/sdk@0.1.36/site.min.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20location_away_FILL-1.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20factory_FILL0_wght400_GRAD0_opsz48.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20garage_FILL0_wght400_GRAD0_opsz48.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/runtime.1b5762f4.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/423.957004db.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/4.92d69000.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/627.03fd3bb0.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/592.67b4f95b.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/362.ab69f59e.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/439.92829140.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/356.f5bc0c94.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/app.5ee37015.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/82.fb625f38.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/immoDetail.8551ba2e.js",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/app.css?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&v=1772179393",
+      "resource_type": "stylesheet",
+      "is_navigation": false,
+      "headers": {
+        "referer": ""
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/widget?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "xhr",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-regular.be36596d.woff2",
+      "resource_type": "font",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/build/app.2a3c549c.css"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-700.8f28e0e1.woff2",
+      "resource_type": "font",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/build/app.2a3c549c.css"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/system/logos/saga-logo.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/images/list-arrow.402cc5d1.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/build/app.2a3c549c.css"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-900.4b21d625.woff2",
+      "resource_type": "font",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/build/app.2a3c549c.css"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-700italic.21fd3e9e.woff2",
+      "resource_type": "font",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/build/app.2a3c549c.css"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/Saga%20Logos/SAGA-Logo-black.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/instagram.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/saga-facebook.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/saga-linkedin.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/15/15.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/16/15.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/15/16.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/16/16.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/15/14.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/16/14.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/15/17.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/5/16/17.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://global.frcapi.com/api/v2/captcha/agent?origin=https%3A%2F%2Fwww.saga.hamburg&sess_id=dQHHslnMcx4U&sess_c=1&comm_id=a_PQTohUU2JwjL&sdk_v=0.1.36&v=1&agent_id=a_PQTohUU2JwjL&ts=1788597687940",
+      "resource_type": "document",
+      "is_navigation": true,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://global.frcapi.com/api/v2/captcha/widget?origin=https%3A%2F%2Fwww.saga.hamburg&sess_id=dQHHslnMcx4U&sess_c=2&comm_id=w_lM7JeH8f5EcH&sdk_v=0.1.36&v=1&agent_id=a_PQTohUU2JwjL&lang=de&sitekey=FCMI0FUHKHR9GJG4&ts=1788597687945",
+      "resource_type": "document",
+      "is_navigation": true,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/widget/details?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "other",
+      "is_navigation": false,
+      "headers": {
+        "origin": "https://www.saga.hamburg",
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://ccm19.quellwerke.de/statistics/consent?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89",
+      "resource_type": "xhr",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://ccm19.quellwerke.de/settings-icon?user=f5b9926&domain=7c1b9f4&theme=6595d89&v=1770109349",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/system/favicons/default/favicon-32x32.png",
+      "resource_type": "other",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://global.frcapi.com/api/v2/captcha/ping",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": ""
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://ccm19.quellwerke.de/statistics/consent?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89",
+      "resource_type": "xhr",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://global.frcapi.com/api/v2/captcha/activate",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://global.frcapi.com/api/v2/captcha/quote",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "is_navigation": false,
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://global.frcapi.com/api/v2/captcha/redeem",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "POST",
+      "url": "https://www.saga.hamburg/captcha-validate",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "fetch",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/apartment.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/parking.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/office.svg",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/540/330.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/540/331.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/539/330.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/541/330.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/539/331.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/541/331.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/540/329.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/540/332.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/539/329.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/541/329.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/539/332.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/10/541/332.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/Immomio/98ddba6a-14c5-42e2-bdcd-d1d4ede901e9/6167085/image-thumb__6167085__img-400/69006623-5be4-4ed6-80ef-170142431b13_response_5.80441d4b.webp",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/Immomio/b3ba2e9f-0ff1-4f74-8c7f-3506d868658c/6167093/image-thumb__6167093__img-400/Vertriebsbild.e8ab94dc.webp",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://www.saga.hamburg/Immomio/4a39e183-c59b-46b7-8e7e-2b792f47f76e/6167087/image-thumb__6167087__img-400/Vertriebsbild.a3b3bc29.webp",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2159/1323.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2160/1323.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2159/1324.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2160/1324.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2159/1322.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2160/1322.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2159/1325.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    },
+    {
+      "method": "GET",
+      "url": "https://tile.openstreetmap.org/12/2160/1325.png",
+      "resource_type": "image",
+      "is_navigation": false,
+      "headers": {
+        "referer": "https://www.saga.hamburg/"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "status": 401,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "document",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/immobiliensuche?create_challenge",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/immobiliensuche?verify_challenge",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/app.2a3c549c.css",
+      "resource_type": "stylesheet",
+      "content_type": "text/css"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/leaflet.c8a5841a.css",
+      "resource_type": "stylesheet",
+      "content_type": "text/css"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20location_away_FILL-1.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20factory_FILL0_wght400_GRAD0_opsz48.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://cdn.jsdelivr.net/npm/@friendlycaptcha/sdk@0.1.36/site.min.js",
+      "resource_type": "script",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/CTA-Icons/%28black%29%20garage_FILL0_wght400_GRAD0_opsz48.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/runtime.1b5762f4.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/423.957004db.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/4.92d69000.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/app.js?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4",
+      "resource_type": "script",
+      "content_type": "application/javascript;charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/627.03fd3bb0.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/592.67b4f95b.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/app.css?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&v=1772179393",
+      "resource_type": "stylesheet",
+      "content_type": "text/css;charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/362.ab69f59e.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/439.92829140.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/356.f5bc0c94.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/immoDetail.8551ba2e.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/app.5ee37015.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "script",
+      "content_type": "application/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/system/logos/saga-logo.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/images/list-arrow.402cc5d1.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-regular.be36596d.woff2",
+      "resource_type": "font",
+      "content_type": "font/woff2"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-700.8f28e0e1.woff2",
+      "resource_type": "font",
+      "content_type": "font/woff2"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/Saga%20Logos/SAGA-Logo-black.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/instagram.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/saga-facebook.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/SAGA.Hamburg/SAGA%20Design%20Assets/Social-Channels/saga-linkedin.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-900.4b21d625.woff2",
+      "resource_type": "font",
+      "content_type": "font/woff2"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/fonts/lato-v24-latin-700italic.21fd3e9e.woff2",
+      "resource_type": "font",
+      "content_type": "font/woff2"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/build/82.fb625f38.js",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/widget?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "xhr",
+      "content_type": "text/x-html-fragment; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/widget/details?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89&lang=de_DE&v=1772179393",
+      "resource_type": "other",
+      "content_type": "text/x-html-fragment; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/15/15.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/16/17.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/16/15.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/15/16.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/16/14.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/16/16.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/settings-icon?user=f5b9926&domain=7c1b9f4&theme=6595d89&v=1770109349",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/15/14.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/5/15/17.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/statistics/consent?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89",
+      "resource_type": "xhr",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/widget?origin=https%3A%2F%2Fwww.saga.hamburg&sess_id=dQHHslnMcx4U&sess_c=2&comm_id=w_lM7JeH8f5EcH&sdk_v=0.1.36&v=1&agent_id=a_PQTohUU2JwjL&lang=de&sitekey=FCMI0FUHKHR9GJG4&ts=1788597687945",
+      "resource_type": "document",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/agent?origin=https%3A%2F%2Fwww.saga.hamburg&sess_id=dQHHslnMcx4U&sess_c=1&comm_id=a_PQTohUU2JwjL&sdk_v=0.1.36&v=1&agent_id=a_PQTohUU2JwjL&ts=1788597687940",
+      "resource_type": "document",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/system/favicons/default/favicon-32x32.png",
+      "resource_type": "other",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/ping",
+      "resource_type": "fetch",
+      "content_type": ""
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://ccm19.quellwerke.de/statistics/consent?apiKey=bdd9ab266718ea55e9486c65f6c2e31432ef9a50bad15d03&domain=7c1b9f4&gen=2&theme=6595d89",
+      "resource_type": "xhr",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/activate",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/quote",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "OK",
+      "url": "blob:https://global.frcapi.com/2e890c2f-0893-4162-9da4-0e73a0b12baa",
+      "resource_type": "script",
+      "content_type": "text/javascript"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://global.frcapi.com/api/v2/captcha/redeem",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/captcha-validate",
+      "resource_type": "fetch",
+      "content_type": "application/json"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+      "resource_type": "fetch",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/apartment.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/parking.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/static/img/icon/immotype/office.svg",
+      "resource_type": "image",
+      "content_type": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/Immomio/98ddba6a-14c5-42e2-bdcd-d1d4ede901e9/6167085/image-thumb__6167085__img-400/69006623-5be4-4ed6-80ef-170142431b13_response_5.80441d4b.webp",
+      "resource_type": "image",
+      "content_type": "image/webp"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/Immomio/b3ba2e9f-0ff1-4f74-8c7f-3506d868658c/6167093/image-thumb__6167093__img-400/Vertriebsbild.e8ab94dc.webp",
+      "resource_type": "image",
+      "content_type": "image/webp"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2159/1322.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2160/1325.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2160/1324.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2159/1324.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2160/1323.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2159/1325.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2159/1323.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://tile.openstreetmap.org/12/2160/1322.png",
+      "resource_type": "image",
+      "content_type": "image/png"
+    },
+    {
+      "status": 200,
+      "status_text": "",
+      "url": "https://www.saga.hamburg/Immomio/4a39e183-c59b-46b7-8e7e-2b792f47f76e/6167087/image-thumb__6167087__img-400/Vertriebsbild.a3b3bc29.webp",
+      "resource_type": "image",
+      "content_type": "image/webp"
+    }
+  ]
+}

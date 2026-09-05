@@ -1,0 +1,106 @@
+{
+  "captured_at": "2026-09-05T10:36:39",
+  "target_url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+  "final_url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+  "title": "Immobiliensuche",
+  "verification": {
+    "detected": true,
+    "indicators": [
+      "captcha"
+    ]
+  },
+  "listing_candidates": [
+    {
+      "text": "Zum Inhalt springen",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#main"
+    },
+    {
+      "text": "Immobiliensuche",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Immobiliensuche\n                    \n                        Seite anzeigen",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Wohnung",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+    },
+    {
+      "text": "Gewerbe",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=OFFICE"
+    },
+    {
+      "text": "Stellplatz",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=PARKING"
+    },
+    {
+      "text": "Aktuelle Neubauprojekte",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/aktuelle-neubauprojekte"
+    },
+    {
+      "text": "Wohnen für Seniorinnen & Senioren",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/wohnen-fuer-senioren"
+    },
+    {
+      "text": "Stellplätze",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/stellplaetze"
+    },
+    {
+      "text": "Gewerbeobjekte",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/gewerbeobjekte"
+    },
+    {
+      "text": "Ihr Weg in Ihr neues Zuhause",
+      "href": "https://www.saga.hamburg/immobiliensuche/Tipps/ihr-weg-in-ihr-neues-zuhause"
+    },
+    {
+      "text": "Wohnungswechsel",
+      "href": "https://www.saga.hamburg/mieterservice/gut-zu-wissen/wohnungswechsel"
+    },
+    {
+      "text": "Grundstücks- und Immobilienankäufe",
+      "href": "https://www.saga.hamburg/Gesch%C3%A4ftspartner/zusammenarbeit-auf-augenhoehe/grundstuecks-und-immobilienankaeufe"
+    },
+    {
+      "text": "Wohnungen mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/wohnung"
+    },
+    {
+      "text": "Gewerbe mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/gewerbe"
+    },
+    {
+      "text": "Stellplätze mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/Stellplatz"
+    },
+    {
+      "text": "+",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#"
+    },
+    {
+      "text": "−",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#"
+    },
+    {
+      "text": "Immobiliensuche",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Aktuelle Angebote",
+      "href": ""
+    },
+    {
+      "text": "Erklärfilm",
+      "href": "https://saga.hamburg/immobiliensuche/erklaerfilm-wohnungssuche"
+    },
+    {
+      "text": "Cookie Einstellungen",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#CCM.openWidget"
+    }
+  ],
+  "network": {
+    "request_count": 53,
+    "response_count": 53
+  }
+}

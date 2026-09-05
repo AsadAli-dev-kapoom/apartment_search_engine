@@ -1,0 +1,529 @@
+{
+  "captured_at": "2026-09-05T10:44:42",
+  "target_url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+  "final_url": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT",
+  "title": "Immobiliensuche",
+  "verification": {
+    "detected": false,
+    "indicators": []
+  },
+  "listing_candidates": [
+    {
+      "text": "Zum Inhalt springen",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#main"
+    },
+    {
+      "text": "Mietermagazin",
+      "href": "https://wirgemeinsam.hamburg/"
+    },
+    {
+      "text": "Immobiliensuche",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Immobiliensuche\n                    \n                        Seite anzeigen",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Wohnung",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT"
+    },
+    {
+      "text": "Gewerbe",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=OFFICE"
+    },
+    {
+      "text": "Stellplatz",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=PARKING"
+    },
+    {
+      "text": "Aktuelle Neubauprojekte",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/aktuelle-neubauprojekte"
+    },
+    {
+      "text": "Wohnen für Seniorinnen & Senioren",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/wohnen-fuer-senioren"
+    },
+    {
+      "text": "Stellplätze",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/stellplaetze"
+    },
+    {
+      "text": "Gewerbeobjekte",
+      "href": "https://www.saga.hamburg/immobiliensuche/allgemein/gewerbeobjekte"
+    },
+    {
+      "text": "Ihr Weg in Ihr neues Zuhause",
+      "href": "https://www.saga.hamburg/immobiliensuche/Tipps/ihr-weg-in-ihr-neues-zuhause"
+    },
+    {
+      "text": "Geschäftsstellen",
+      "href": "https://www.saga.hamburg/mieterservice/gut-zu-wissen/gesch%C3%A4ftsstellen"
+    },
+    {
+      "text": "Wohnungswechsel",
+      "href": "https://www.saga.hamburg/mieterservice/gut-zu-wissen/wohnungswechsel"
+    },
+    {
+      "text": "Betriebskosten",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/betriebskosten"
+    },
+    {
+      "text": "Elektromobilität",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/elektromobilitaet"
+    },
+    {
+      "text": "Energiesparen",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/energiesparen"
+    },
+    {
+      "text": "Heizen und Lüften",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/heizen-und-lueften"
+    },
+    {
+      "text": "Kaution",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/kaution"
+    },
+    {
+      "text": "Mietvertrag",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/mietvertrag"
+    },
+    {
+      "text": "Müll und Sperrmüll",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/muell"
+    },
+    {
+      "text": "Ratten",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/ratten"
+    },
+    {
+      "text": "Sicherheit",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/sicherheit"
+    },
+    {
+      "text": "Verbrauchsinformationen",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/verbrauchsinformationen"
+    },
+    {
+      "text": "Versicherungen",
+      "href": "https://www.saga.hamburg/mieterservice/servicetipps/versicherungen"
+    },
+    {
+      "text": "Mietermagazin WIR gemeinsam",
+      "href": "https://www.wirgemeinsam.hamburg/"
+    },
+    {
+      "text": "meineSAGA",
+      "href": "https://www.saga.hamburg/mieterservice/Unser-Mieterportal/meine-SAGA"
+    },
+    {
+      "text": "Geschäftsstellen",
+      "href": "https://www.saga.hamburg/mieterservice/gut-zu-wissen/gesch%C3%A4ftsstellen"
+    },
+    {
+      "text": "Grundstücks- und Immobilienankäufe",
+      "href": "https://www.saga.hamburg/Gesch%C3%A4ftspartner/zusammenarbeit-auf-augenhoehe/grundstuecks-und-immobilienankaeufe"
+    },
+    {
+      "text": "Mietermagazin",
+      "href": "https://wirgemeinsam.hamburg/"
+    },
+    {
+      "text": "Mieter",
+      "href": "https://www.saga.hamburg/Fragenkatalog?Hauptkategorie=210"
+    },
+    {
+      "text": "Wohnungen mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/wohnung"
+    },
+    {
+      "text": "Gewerbe mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/gewerbe"
+    },
+    {
+      "text": "Stellplätze mieten",
+      "href": "https://www.saga.hamburg/immobiliensuche/aktuelle_angebote/Stellplatz"
+    },
+    {
+      "text": "1",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#APARTMENT-card-1"
+    },
+    {
+      "text": "2",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#APARTMENT-card-2"
+    },
+    {
+      "text": "3",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#APARTMENT-card-3"
+    },
+    {
+      "text": "4",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#APARTMENT-card-4"
+    },
+    {
+      "text": "1",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-1"
+    },
+    {
+      "text": "2",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-2"
+    },
+    {
+      "text": "3",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-3"
+    },
+    {
+      "text": "4",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-4"
+    },
+    {
+      "text": "5",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-5"
+    },
+    {
+      "text": "6",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#PARKING-card-6"
+    },
+    {
+      "text": "1",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-1"
+    },
+    {
+      "text": "2",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-2"
+    },
+    {
+      "text": "3",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-3"
+    },
+    {
+      "text": "4",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-4"
+    },
+    {
+      "text": "5",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-5"
+    },
+    {
+      "text": "6",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-6"
+    },
+    {
+      "text": "7",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-7"
+    },
+    {
+      "text": "8",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-8"
+    },
+    {
+      "text": "9",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-9"
+    },
+    {
+      "text": "10",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-10"
+    },
+    {
+      "text": "11",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-11"
+    },
+    {
+      "text": "12",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#OFFICE-card-12"
+    },
+    {
+      "text": "+",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#"
+    },
+    {
+      "text": "−",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#"
+    },
+    {
+      "text": "Immobiliensuche",
+      "href": "https://www.saga.hamburg/immobiliensuche"
+    },
+    {
+      "text": "Aktuelle Angebote",
+      "href": ""
+    },
+    {
+      "text": "Erklärfilm",
+      "href": "https://saga.hamburg/immobiliensuche/erklaerfilm-wohnungssuche"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6774/3-1-2-zimmer-mit-garten-in-moorburg-grune-lage"
+    },
+    {
+      "text": "3 1/2-Zimmer mit Garten in Moorburg - grüne Lage",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6774/3-1-2-zimmer-mit-garten-in-moorburg-grune-lage"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6774/3-1-2-zimmer-mit-garten-in-moorburg-grune-lage"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6783/schone-4-zimmerwohnung"
+    },
+    {
+      "text": "Schöne 4-Zimmerwohnung",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6783/schone-4-zimmerwohnung"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6783/schone-4-zimmerwohnung"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6787/grosse-3-zimmerwohnung-mit-garten-in-moorburg"
+    },
+    {
+      "text": "Große 3-Zimmerwohnung mit Garten in Moorburg",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6787/grosse-3-zimmerwohnung-mit-garten-in-moorburg"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6787/grosse-3-zimmerwohnung-mit-garten-in-moorburg"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6788/3-zimmerwohnung-mit-garten-im-alten-land-neuenfelde"
+    },
+    {
+      "text": "3-Zimmerwohnung mit Garten im Alten Land - Neuenfelde",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6788/3-zimmerwohnung-mit-garten-im-alten-land-neuenfelde"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6788/3-zimmerwohnung-mit-garten-im-alten-land-neuenfelde"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6461/stellplatz-nr-6-nur-als-motorrad-stellplatz-nutzbar"
+    },
+    {
+      "text": "Stellplatz - Nr 6/Nur als Motorrad-Stellplatz nutzbar",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6461/stellplatz-nr-6-nur-als-motorrad-stellplatz-nutzbar"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6461/stellplatz-nr-6-nur-als-motorrad-stellplatz-nutzbar"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6711/garagenstellplatze-im-herzen-von-st-georg-zu-vermieten"
+    },
+    {
+      "text": "Garagenstellplätze im Herzen von St.Georg zu vermieten!",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6711/garagenstellplatze-im-herzen-von-st-georg-zu-vermieten"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6711/garagenstellplatze-im-herzen-von-st-georg-zu-vermieten"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6723/tiefgaragenstellplatze-in-der-neustadt-zu-vermieten"
+    },
+    {
+      "text": "Tiefgaragenstellplätze in der Neustadt zu vermieten!",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6723/tiefgaragenstellplatze-in-der-neustadt-zu-vermieten"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6723/tiefgaragenstellplatze-in-der-neustadt-zu-vermieten"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6744/tiefg-einstellplatz-nr-19"
+    },
+    {
+      "text": "Tiefg. Einstellplatz Nr. 19",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6744/tiefg-einstellplatz-nr-19"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6744/tiefg-einstellplatz-nr-19"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6784/einstellplatz-parkpalette-fur-motorrader-platz-nr-21"
+    },
+    {
+      "text": "Einstellplatz Parkpalette für Motorräder Platz Nr. 21",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6784/einstellplatz-parkpalette-fur-motorrader-platz-nr-21"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6784/einstellplatz-parkpalette-fur-motorrader-platz-nr-21"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6785/einstellplatz-parkpalette-fur-motorrader-platz-nr-62"
+    },
+    {
+      "text": "Einstellplatz Parkpalette für Motorräder Platz Nr. 62",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6785/einstellplatz-parkpalette-fur-motorrader-platz-nr-62"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6785/einstellplatz-parkpalette-fur-motorrader-platz-nr-62"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6184/existenzgrunderburo-3-1-zimmer"
+    },
+    {
+      "text": "Existenzgründerbüro 3 - 1 Zimmer",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6184/existenzgrunderburo-3-1-zimmer"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6184/existenzgrunderburo-3-1-zimmer"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6185/existenzgrunderburo-1-1-zimmer"
+    },
+    {
+      "text": "Existenzgründerbüro 1 - 1 Zimmer",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6185/existenzgrunderburo-1-1-zimmer"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6185/existenzgrunderburo-1-1-zimmer"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6278/grosse-praxis-in-hamburg-mummelmannsberg"
+    },
+    {
+      "text": "Große Praxis in Hamburg - Mümmelmannsberg",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6278/grosse-praxis-in-hamburg-mummelmannsberg"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6278/grosse-praxis-in-hamburg-mummelmannsberg"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6652/grosse-lagerflache-in-billstedt"
+    },
+    {
+      "text": "Große Lagerfläche in Billstedt",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6652/grosse-lagerflache-in-billstedt"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6652/grosse-lagerflache-in-billstedt"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6716/gewerbeobjekt-fur-handwerker"
+    },
+    {
+      "text": "Gewerbeobjekt für Handwerker",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6716/gewerbeobjekt-fur-handwerker"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6716/gewerbeobjekt-fur-handwerker"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6727/attraktive-restaurantflache-im-herzen-von-st-pauli"
+    },
+    {
+      "text": "Attraktive Restaurantfläche im Herzen von St. Pauli",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6727/attraktive-restaurantflache-im-herzen-von-st-pauli"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6727/attraktive-restaurantflache-im-herzen-von-st-pauli"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6741/grosse-vielseitig-nutzbare-gewerbeflache-im-herzen-von-osdorf"
+    },
+    {
+      "text": "Große vielseitig nutzbare Gewerbefläche im Herzen von Osdorf",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6741/grosse-vielseitig-nutzbare-gewerbeflache-im-herzen-von-osdorf"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6741/grosse-vielseitig-nutzbare-gewerbeflache-im-herzen-von-osdorf"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6742/modernisiertes-gewerbeobjekt"
+    },
+    {
+      "text": "Modernisiertes Gewerbeobjekt",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6742/modernisiertes-gewerbeobjekt"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6742/modernisiertes-gewerbeobjekt"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6748/schone-gewerbeflache-in-finkenwerder"
+    },
+    {
+      "text": "Schöne Gewerbefläche in Finkenwerder",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6748/schone-gewerbeflache-in-finkenwerder"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6748/schone-gewerbeflache-in-finkenwerder"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6749/schone-gewerbeflache-finkenwerder"
+    },
+    {
+      "text": "Schöne Gewerbefläche - Finkenwerder",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6749/schone-gewerbeflache-finkenwerder"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6749/schone-gewerbeflache-finkenwerder"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6750/schone-gewerbeflache-in-hamburg-veddel"
+    },
+    {
+      "text": "Schöne Gewerbefläche in Hamburg Veddel",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6750/schone-gewerbeflache-in-hamburg-veddel"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6750/schone-gewerbeflache-in-hamburg-veddel"
+    },
+    {
+      "text": "",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6752/grosse-buroflache-in-harburg"
+    },
+    {
+      "text": "Große Bürofläche in Harburg",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6752/grosse-buroflache-in-harburg"
+    },
+    {
+      "text": "ANZEIGEN",
+      "href": "https://www.saga.hamburg/immobiliensuche/immo-detail/6752/grosse-buroflache-in-harburg"
+    },
+    {
+      "text": "Cookie Einstellungen",
+      "href": "https://www.saga.hamburg/immobiliensuche?Kategorie=APARTMENT#CCM.openWidget"
+    }
+  ],
+  "network": {
+    "request_count": 93,
+    "response_count": 78,
+    "xhr_fetch_count": 11
+  }
+}
